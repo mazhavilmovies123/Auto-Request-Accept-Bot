@@ -6,7 +6,7 @@ from pyrogram.enums import ParseMode
 import sys
 from datetime import datetime
 import pyrogram.utils
-pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
+pyrogram.utils.MIN_CHANNEL_ID = -1003259271720
 
 from config import API_HASH, API_ID, LOGGER, BOT_TOKEN, WORKER, PORT
 
